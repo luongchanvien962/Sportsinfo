@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Sportinfo vip - your top source for fast and accurate sports updates.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Sportinfo vip <https://sportinfo.vip/>`_ your top source for fast and accurate sports updates. We provide news, images, and videos from global sporting events like football, tennis, F1, and WWE. Experience top-tier sports with us!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Head Office: The Townhouse, The Broadway, London W5 5JN, United Kingdom
 
-.. note::
+Email: sportinfo@information.com
 
-   This project is under active development.
+Hotline: +44 345 080 855
 
-Contents
---------
+Website: https://sportinfo.vip/ 
 
-.. toctree::
-
-   usage
-   api
+#sportingnews #footballnews #sportinfor #soccernews #sportstoday
